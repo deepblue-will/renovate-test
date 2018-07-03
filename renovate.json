@@ -1,5 +1,11 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "pin": false,
+  "enabledManagers": ["npm"],
+  "ignoreDeps": [
+    "@angular/core"
+  ],
+  "commitMessagePrefix": ":heavy_plus_sign: "
 }
