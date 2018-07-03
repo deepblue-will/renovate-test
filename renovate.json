@@ -1,5 +1,12 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "pin": false,
+  "enabledManagers": ["npm"],
+  "ignoreDeps": [
+    "@angular/core"
+  ],
+  "schedule": ["after 10pm and before 5am every weekday"],
+  "commitMessagePrefix": ":heavy_plus_sign: "
 }
