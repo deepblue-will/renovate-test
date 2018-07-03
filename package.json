@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/deepblue-will/renovate-test/issues"
   },
-  "homepage": "https://github.com/deepblue-will/renovate-test#readme"
+  "homepage": "https://github.com/deepblue-will/renovate-test#readme",
+  "dependencies": {
+    "@angular/core": "^4.4.4"
+  },
+  "devDependencies": {
+    "prettier": "^1.13.5",
+    "typescript": "^2.3.4"
+  }
 }
