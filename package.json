@@ -20,7 +20,7 @@
     "@angular/core": "^4.4.4"
   },
   "devDependencies": {
-    "prettier": "^1.13.5",
-    "typescript": "^2.3.4"
+    "prettier": "1.13.5",
+    "typescript": "2.3.4"
   }
 }
