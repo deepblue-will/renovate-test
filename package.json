@@ -21,7 +21,7 @@
     "@angular/forms": "^4.4.4"
   },
   "devDependencies": {
-    "prettier": "^1.13.5",
+    "prettier": "^2.0.0",
     "typescript": "^2.3.4"
   }
 }
